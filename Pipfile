@@ -9,6 +9,7 @@ ipython = "*"
 lark = "*"
 spacy-langdetect = "*"
 black = "*"
+pycountry = "*"
 
 [dev-packages]
 
